@@ -11,7 +11,7 @@ cfg = dict(name='TxPx',
       author='Bright.md',
       author_email='support@bright.md',
       license='MIT',
-      packages=['txpx'],
+      packages=['txpx', 'txpx/test'],
       # dependency_links=[],
       install_requires=[
         # library:
