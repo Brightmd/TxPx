@@ -20,4 +20,4 @@ application server. It handles such details as:
 $ git clone https://github.com/Brightmd/TxPx.git
 ```
 
-Created by @BrightMD.
+Created by @BrightMD. Visit us at [Bright.md](http://bright.md/)
